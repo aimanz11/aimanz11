@@ -29,4 +29,4 @@ I'm passionate about coding, data analysis and building cool projects.
 
 ## 🔗 Connect with me
 - [LinkedIn](http://www.linkedin.com/in/aimanzahiyan)
-- [Portfolio Website] (maintenance)
+- [Portfolio Website]
